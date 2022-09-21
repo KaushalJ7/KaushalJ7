@@ -2,7 +2,7 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-KaushalDeveloper-red)](https://youtube.com/channel/UC5SEZ9A9c5Y_gf7R0fL3MZQ)
 [![Linkedin Badge](https://img.shields.io/badge/-Kaushal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Kaushal--01629954/)](https://www.linkedin.com/in/kaushal-joshi-666a74236/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Kaushal-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/WebSite-Kaushal-green)](https://kaushalj7.github.io/profilehtml/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Kaushal-yellow)](https://stackoverflow.com/users/20052083/kaushal-developer)
 
 I'm
